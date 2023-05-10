@@ -34,7 +34,7 @@
 					<muleVersion>4.4.0</muleVersion>
 					<username>${PLATFORM_USERNAME}</username>
 					<password>${PLATFORM_PASSWORD}</password>
-					<applicationName>CICD-DEMO</applicationName>
+					<applicationName>cicd-demo</applicationName>
 					<environment>Sandbox</environment>
 					<workers>1</workers>
 					<workerType>MICRO</workerType>
